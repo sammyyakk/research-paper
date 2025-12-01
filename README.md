@@ -842,7 +842,3 @@ Step-by-step worked examples of Atom Economy, E-factor, PMI, and Molar Efficienc
 The authors acknowledge the support of the Applied Science Department, Bharati Vidyapeeth's College of Engineering, New Delhi, India. This research was conducted as part of ongoing efforts to integrate sustainability principles into chemical education and practice, with particular emphasis on India's transition toward sustainable chemical manufacturing and the achievement of the 2030 Sustainable Development Goals.
 
 ---
-
-**Document Status:** Final Version with Original Abstract from Conference Template
-**Total References:** 40+ with active URLs
-**Compliance:** Full academic formatting with proper citation structure and exact abstract from provided template
