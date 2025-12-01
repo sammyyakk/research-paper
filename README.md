@@ -104,7 +104,7 @@ $$\text{EQ} = \text{E-Factor} \times Q\text{-value}$$
 
 where the Q-value represents the environmental hazard quotient of the waste.
 
-![Green Chemistry Principles-SDG Alignment Matrix](gc_sdg_heatmap.jpg)
+![Green Chemistry Principles-SDG Alignment Matrix](gc_sdg_heatmap.png)
 *Figure 1: Heatmap showing systematic alignment between the 12 Principles of Green Chemistry (rows) and 8 key SDGs (columns). Color intensity indicates alignment strength: dark green (strong), yellow (moderate), light pink (weak). This visualization demonstrates that Principles 1, 2, 4, and 12 exhibit strong multi-SDG alignment.*
 
 **Molar Efficiency:** A metric emphasizing molecular-level efficiency in synthetic routes, tracking the percentage of atoms from starting materials that end up in the final desired product, accounting for all transformations.
@@ -113,7 +113,7 @@ where the Q-value represents the environmental hazard quotient of the waste.
 
 ## III. Systematic Alignment: Green Chemistry Principles and Sustainable Development Goals
 
-![Green Chemistry and Sustainability Policy Evolution (1990-2025)](timeline.jpg)
+![Green Chemistry and Sustainability Policy Evolution (1990-2025)](timeline.png)
 *Figure 2: Timeline visualization tracking 34 years of green chemistry development from Trost's introduction of Atom Economy (1991) through the 12 Principles formulation (1998), regulatory milestones (REACH 2007, EU Strategy 2020), and global commitments (17 SDGs 2015, India CMSR 2025). Demonstrates accelerating policy momentum supporting GC adoption.*
 
 ### A. SDG 3: Good Health and Well-Being
@@ -347,7 +347,7 @@ The green synthesis, implemented industrially more than three decades ago, demon
 
 ### D. Continuous Flow Synthesis Achievements
 
-![E-Factor (Environmental Waste) Comparison Across Chemical Sectors](efactor_chart.jpg)
+![E-Factor (Environmental Waste) Comparison Across Chemical Sectors](efactor_chart.png)
 *Figure 3: Bar chart comparing E-factor values across five chemical industry sectors on logarithmic scale. Oil refining (0.3) shows minimal waste generation, while synthetic peptides (13,000) represent the highest waste opportunity for green chemistry intervention. This differential highlights strategic priority areas for GC implementation.*
 
 Recent advances in continuous manufacturing demonstrate the green chemistry potential of flow chemistry across diverse applications:
@@ -381,14 +381,14 @@ Analysis of PMI data from ACS GCI Pharmaceutical Roundtable benchmarking exercis
 | Development | ~300 | ~200 | ~150 | 50% | ~1.8% |
 | Commercial | ~100 | ~60 | ~45 | 55% | ~1.9% |
 
-![PMI Reduction Trends (2008-2023)](pmi_chart.jpg)
+![PMI Reduction Trends (2008-2023)](pmi_chart.png)
 *Figure 4: Line chart tracking Process Mass Intensity (PMI) reduction trends across three pharmaceutical development phases (Discovery, Development, Commercial) from 2008 to 2023. Discovery phase shows 35% reduction, Development 50%, and Commercial 55%, demonstrating consistent efficiency gains through green chemistry implementation.*
 
 These improvements directly support SDG 12.5 (substantially reduce waste generation). The consistent year-over-year reductions demonstrate that systematic implementation of Green Chemistry principles produces measurable, sustained benefits.
 
 ### C. Energy Intensity Correlation
 
-![PMI Composition (Stacked Bar)](pmi_chart-1.jpg)
+![PMI Composition (Stacked Bar)](pmi_chart_composition.png)
 *Figure 5: Stacked bar chart analyzing Process Mass Intensity (PMI) composition. Solvents (blue) consistently represent 80-90% of total mass across all development phases, identifying solvent reduction and recovery as the single highest-impact strategy for improving chemical manufacturing sustainability.*
 
 Companies implementing comprehensive green chemistry practices report:
@@ -474,7 +474,7 @@ ASSOCHAM comprehensive report: https://www.assocham.org/
 
 ### C. Global Green Chemistry Policy Coordination
 
-![Barriers to Adoption](funnel_chart.jpg)
+![Barriers to Adoption](funnel_chart.png)
 *Figure 6: Funnel chart illustrating the hierarchy of barriers to green chemistry adoption. Technical challenges (top) filter down through economic constraints and regulatory hurdles to the final implementation gap. Policy interventions must target specific layers of this funnel to be effective.*
 
 Effective policy acceleration requires:
@@ -665,7 +665,7 @@ Leading companies implement comprehensive green chemistry training programs:
 
 ## X. Barriers to Adoption and Solutions
 
-![Green Chemistry Implementation Profiles](radar_chart.jpg)
+![Green Chemistry Implementation Profiles](radar_chart.png)
 *Figure 7: Radar chart comparing green chemistry implementation profiles across four key dimensions: Innovation, Regulation, Economic Viability, and Social Impact. The 'Ideal State' (outer ring) contrasts with 'Current State' (inner polygon), highlighting significant gaps in regulatory harmonization and economic incentives despite strong innovation performance.*
 
 ### A. Technical Challenges and Mitigation Strategies
