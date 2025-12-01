@@ -1,12 +1,9 @@
 # Green Chemistry (GC) for Sustainable Development Goals (SDGs)
 
-**Authors:** Anil Kumar¹, Chetna Negi², Devansh Kumar Singh³, Samyak Jain⁴, Ruchi Sharma⁵
+**Authors:** Anil Kumar¹, Chetna Negi², Devansh Kumar Singh², Samyak Jain², Ruchi Sharma¹
 
 ¹ Applied Science Department, Bharati Vidyapeeth's College of Engineering, New Delhi, India
 ² Department of Electronics and Communications, Bharati Vidyapeeth's College of Engineering, New Delhi, India
-³ Department of Electronics and Communications, Bharati Vidyapeeth's College of Engineering, New Delhi, India
-⁴ Department of Electronics and Communications, Bharati Vidyapeeth's College of Engineering, New Delhi, India
-⁵ Applied Science Department, Bharati Vidyapeeth's College of Engineering, New Delhi, India
 
 **Corresponding Author Email:** chetnanegi437@gmail.com
 
